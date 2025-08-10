@@ -1,0 +1,5 @@
+This is a question 53 from leetcode that i have solved using kadane algorithm 
+In this sum i have to find the maximum sum of subarray given in the list
+
+First of all i take two variables currentsum and overallsum as its first number or index[0]
+then i started the loop that is visible in the code 
